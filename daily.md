@@ -17,6 +17,7 @@ Use these challenges during those times when you run out of motivation, inspirat
 + [Ruby Warrior](https://www.bloc.io/ruby-warrior#/)
 + [Fight Code Game](http://fightcodegame.com/)
 + [49 ideas for Game Clones to code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
++ [Robot Game](https://robotgame.net/home)
 
 ## Computer Challenges
 + [Exercism](http://exercism.io)
