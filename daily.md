@@ -12,6 +12,7 @@ Use these challenges during those times when you run out of motivation, inspirat
 + [Karan's Mega Project List](https://github.com/karan/Projects)
 + [25 Project everyone should know](https://www.reddit.com/r/learnprogramming/comments/1nqt0t/there_was_a_post_here_with_a_list_of_25_projects/ccl51lo)
 + [HP Codewars Samples](http://www.hpcodewars.org/index.php?page=samples)
++ [Code Chef](https://www.codechef.com/)
 
 ## Game Based Challenges
 + [Checkio](http://www.checkio.org/)
