@@ -34,6 +34,7 @@ If you need more, see [WikiPedia](https://en.wikipedia.org/wiki/Comparison_of_In
     + `#coding`
     + `#js`
 + Rizon Network: `irc.rizon.net`
+    + `#programming`
     + `#math`
     + `#php`
 
