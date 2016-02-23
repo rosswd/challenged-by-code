@@ -17,7 +17,7 @@ So you've been trying to do more challenges. Perhaps you are doing one right now
 If you need more, see [WikiPedia](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
 
 ## IRC Channels
-+ Freenode Network: `irc.freenode.org`
++ Freenode Network: `irc.freenode.net`
     + `##programming`
     + `##math`
     + `##statistics`
