@@ -59,6 +59,6 @@ See `search.md` for an extended list.
 + [Code Eval](https://www.codeeval.com/)
 
 ## More Real
-If you are looking challenges that are more real, these may help:
+If you are looking for challenges that are more real, these may help:
 
 + [The Idea Machine](http://www.ideamachine.io/)
