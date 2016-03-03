@@ -5,8 +5,8 @@ for beginners who are still trying to get out of tutorial loop. The idea behind
 
 - you find yourself not being able to do things others seem to do with ease, like
 nested loops
-- you cannot actually make anything, although you can watch someone do it and/or
-you can copy and paste their code
+- you cannot actually make anything, although you can watch someone else do it or
+copy/paste their code
 
 `daily.md` contains most of the challenges. `search.md` lists places to search
 for code - useful if you are learning about a function or concept and want some
