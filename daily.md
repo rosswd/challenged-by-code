@@ -5,6 +5,7 @@ Use these challenges during those times when you run out of motivation, inspirat
 + [Code Wars](http://www.codewars.com/)
 + [Project Euler](https://projecteuler.net)
 + [/r/Dailyprogrammer](https://www.reddit.com/r/Dailyprogrammer)
++ [/r/Dailyprogrammer Challenges List](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
 + [Code Abbey](http://www.codeabbey.com/index/task_list)
 + [Coder Byte](http://coderbyte.com/CodingArea/Challenges/)
 + [Coding Bat](http://codingbat.com/)
@@ -13,6 +14,20 @@ Use these challenges during those times when you run out of motivation, inspirat
 + [25 Project everyone should know](https://www.reddit.com/r/learnprogramming/comments/1nqt0t/there_was_a_post_here_with_a_list_of_25_projects/ccl51lo)
 + [HP Codewars Samples](http://www.hpcodewars.org/index.php?page=samples)
 + [Code Chef](https://www.codechef.com/)
++ [Rosalind](http://rosalind.info/problems/locations/)
++ [Ruby Quiz](http://rubyquiz.com/)
++ [OCS Prep Work](https://www.gitbook.com/book/andrewek/ocs-prep-work/details)
++ [UVa Online Judge](https://uva.onlinejudge.org/)
++ [Timus Online Judge](http://acm.timus.ru/)
++ [Sphere Online Judge](http://www.spoj.com/)
++ [A2 Online Judge](http://a2oj.com/)
++ [USA Computing Olympiad](http://usaco.org/)
++ [P99: Ninety-nine Prolog Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
++ [L99: Ninety-nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
++ [Python Challenge](http://www.pythonchallenge.com/)
++ [4Clojure](http://www.4clojure.com/)
++ [Hack This Site](https://www.hackthissite.org/pages/index/index.php)
++ [Mooc.fi](http://mooc.fi/english.html)
 
 ## Game Based Challenges
 + [Checkio](http://www.checkio.org/)
@@ -37,7 +52,13 @@ Use these challenges during those times when you run out of motivation, inspirat
 
 See `search.md` for an extended list.
 
-## Get Rewarded financially for your efforts
+## Financial or Points based
 + [Topcoder](http://www.topcoder.com/)
++ [Code Forces](http://codeforces.com/)
 + [Hacker Rank](https://www.hackerrank.com/)
 + [Code Eval](https://www.codeeval.com/)
+
+## More Real
+If you are looking challenges that are more real, these may help:
+
++ [The Idea Machine](http://www.ideamachine.io/)
