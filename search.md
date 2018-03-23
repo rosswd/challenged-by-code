@@ -2,7 +2,7 @@
 
 ## Search Engines
 + [Seachcode](https://searchcode.com/)
-+ [Openhub](http://code.openhub.net/)
++ ~~[Openhub](http://code.openhub.net/)~~ Service discontinued
 + [Grep Code](http://grepcode.com/)
 + [Antepedia](http://www.antepedia.com/)
 + [Codase](http://www.codase.com/)
