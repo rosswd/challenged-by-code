@@ -1,9 +1,9 @@
 # Code Search
 
 ## Search Engines
-+ [Seachcode](https://searchcode.com/)
++ [Seachcode](https://searchcode.com/) - Still the best (2018)
 + ~~[Openhub](http://code.openhub.net/)~~ Service discontinued
-+ [Grep Code](http://grepcode.com/)
++ [Grep Code](http://grepcode.com/) - Java Only
 + [Antepedia](http://www.antepedia.com/)
 + [Codase](http://www.codase.com/)
 
