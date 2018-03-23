@@ -8,7 +8,7 @@
 + [Codase](http://www.codase.com/)
 
 ## Snippets
-+ [Gists](https://gist.github.com/)
++ [Gists](https://gist.github.com/discover)
 + [Snipplr](http://snipplr.com/)
 + [Codepad](http://codepad.org/recent)
 + [Ideone](http://ideone.com/recent)
